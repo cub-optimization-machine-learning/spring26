@@ -30,7 +30,7 @@ The written exam will be offline on campus. Test exam from the previous years: [
 | 16.02.26 | 02 | The algorithm for finding non-exact 1d minimas. Gradient Descent, its convergence speed for different function classes. Examples. Finite-difference methods.	| NW, sections 3.2, 3.3<br> [Lecture notes](Materials/Ch2.pdf)  |
 | 23.02.26 | 03 | Newton method. Invariance to linear scaling. Global and local convergence. Matrix decompositions for solving linear systems. Hessian correction schemes.	| NW, sections 3.3, 3.4<br> [Lecture notes](Materials/Ch3.pdf)  |
 | 02.03.26 | 04 | Convex sets, convex functions, convex optimization problems. 	| [Lecture notes](Materials/Ch4.pdf)<br> BV, sections 2.1-2.3; BV, sections 3.1, 3.2   |
-| 09.03.26 | 05 | Conjugate Gradient method for solving linear systems, its convergence properties. Non-linear CG. Hessian-Free Newton (Newton-cg), its convergence speed.	| NW, sections 5.1, 5.2; NW, section 7.1;<br> [Presentation](Materials/nonlinear_cg.pptx)  |
+| 09.03.26 | 05 | Conjugate Gradient method for solving linear systems, its convergence properties. Non-linear CG. Hessian-Free Newton (Newton-cg), its convergence speed.	| NW, sections 5.1, 5.2; NW, section 7.1;<br> [Presentation](Materials/nonlinear_cg.pptx)<br> [Lecture notes](Materials/Ch5.pdf)  |
 | 16.03.26 | 06 | Quasi-Newton methods SR1, BFGS and L-BFGS. 	| NW, sections 6.1, 6.2, 7.2;   |
 | 23.03.26 | 07 | Constrained optimization problem, KKT theorem (first and second order necessary and sufficient conditions). Examples of analytical solving for constrained optimization, DeepFool adversarial attack.	| NW, chapter 12; [DeepFool](https://arxiv.org/abs/1511.04599)  |
 | 30.03.26 | -- | *Semester break, no classes*
