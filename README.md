@@ -32,7 +32,7 @@ The written exam will be offline on campus. Test exam from the previous years: [
 | 02.03.26 | 04 | Convex sets, convex functions, convex optimization problems. 	| [Lecture notes](Materials/Ch4.pdf)<br> BV, sections 2.1-2.3; BV, sections 3.1, 3.2   |
 | 09.03.26 | 05 | Conjugate Gradient method for solving linear systems, its convergence properties. Non-linear CG. Hessian-Free Newton (Newton-cg), its convergence speed.	| NW, sections 5.1, 5.2; NW, section 7.1;<br> [Presentation](Materials/nonlinear_cg.pptx)<br> [Lecture notes](Materials/Ch5.pdf)  |
 | 16.03.26 | 06 | Quasi-Newton methods SR1, BFGS and L-BFGS. 	| NW, sections 6.1, 6.2, 7.2;<br> [Lecture notes](Materials/Ch6.pdf)   |
-| 23.03.26 | 07 | Constrained optimization problem, KKT theorem (first and second order necessary and sufficient conditions). Dual optimization problem. Epigraph and reparameterization reformulations.	| NW, chapter 12;   |
+| 23.03.26 | 07 | Constrained optimization problem, KKT theorem (first and second order necessary and sufficient conditions). Dual optimization problem. Epigraph and reparameterization reformulations.	| NW, chapter 12;<br> [Lecture notes](Materials/Ch7.pdf)   |
 | 30.03.26 | -- | *Semester break, no classes*
 | 06.04.26 | -- | *Public holiday, no classes*
 | 13.04.26 | 08 | Revised simplex method for Linear Programming. Log-Barrier method for constrained convex programming.	| NW, chapter 13; BV, sections 10.2, 11.1-11.4  |
