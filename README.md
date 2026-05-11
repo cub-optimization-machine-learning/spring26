@@ -26,7 +26,7 @@ The written exam will be offline on campus. Test exam from the previous years: [
 
 | Date | Number | Topic | Materials |
 | :---: | :---: | --- | --- |
-| 09.02.26 | 01 | Introduction to the course. Function classes for optimization. Finding Hessians using second differentials. Convergence speed of optimization algorithms. Armijo/Wolfe conditions for non-exact one-dimensional minimas.	| NW, sections 3.1, 3.5<br> [Lecture notes](Materials/Ch1.pdf)<br> [Notes on convergence speed (in russian)](Materials/convergence_speed.pdf) |
+| 09.02.26 | 01 | Introduction to the course. Function classes for optimization. Finding Hessians using second differentials. Convergence speed of optimization algorithms. Armijo/Wolfe conditions for non-exact one-dimensional minimas.	| NW, sections 3.1, 3.5<br> [Lecture notes](Materials/Ch1.pdf) |
 | 16.02.26 | 02 | The algorithm for finding non-exact 1d minimas. Gradient Descent, its convergence speed for different function classes. Examples. Finite-difference methods.	| NW, sections 3.2, 3.3<br> [Lecture notes](Materials/Ch2.pdf)  |
 | 23.02.26 | 03 | Newton method. Invariance to linear scaling. Global and local convergence. Matrix decompositions for solving linear systems. Hessian correction schemes.	| NW, sections 3.3, 3.4<br> [Lecture notes](Materials/Ch3.pdf)  |
 | 02.03.26 | 04 | Convex sets, convex functions, convex optimization problems. 	| [Lecture notes](Materials/Ch4.pdf)<br> BV, sections 2.1-2.3; BV, sections 3.1, 3.2   |
