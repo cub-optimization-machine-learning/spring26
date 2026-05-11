@@ -39,7 +39,7 @@ The written exam will be offline on campus. Test exam from the previous years: [
 | 20.04.26 | 09 | Non-smooth convex optimization: examples, subgradient method. Subdifferential calculus. | [Presentation](https://web.stanford.edu/class/ee364b/lectures/subgrad_method_notes.pdf)<br> [Lecture notes](Materials/Subgradients.pdf)
 | 27.04.26 | 10 | Proximal methods for composite function minimization. ADMM with examples. | [Lecture notes](Materials/Proximal.pdf)<br> [ProxGrad](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/prox-grad.pdf)<br> [ADMM](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/admm.pdf)
 | 04.05.26 | 11 | Closed functions, Fenchel conjugate functions and conjugate (dual) norms. Projections and proximal operators. |  
-| 11.05.26 | 12 | Stochastic optimization methods for convex finite-sums minimization: SGD, SAG, SVRG, SAGA, NIM. Wasserstein distance and Wasserstein GAN. | [paper 1](https://arxiv.org/abs/1309.2388), [paper 2](https://proceedings.neurips.cc/paper/2013/file/ac1dd209cbcc5e5d1c6e28598e8cbbe8-Paper.pdf), [paper 3](https://arxiv.org/abs/1401.7020), [paper 4](https://proceedings.mlr.press/v48/rodomanov16.html)
+| 11.05.26 | 12 | Stochastic optimization methods for convex finite-sums minimization: SGD, SAG, SVRG, SAGA, NIM. Wasserstein distance and Wasserstein GAN. | [paper 1](https://arxiv.org/abs/1309.2388), [paper 2](https://proceedings.neurips.cc/paper/2013/file/ac1dd209cbcc5e5d1c6e28598e8cbbe8-Paper.pdf), [paper 3](https://arxiv.org/abs/1407.0202), [paper 4](https://proceedings.mlr.press/v48/rodomanov16.html)
 
 
 ## Literature
